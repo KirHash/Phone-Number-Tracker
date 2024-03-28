@@ -1,1 +1,1 @@
-number = "+918377834447"
+number = "Enter Your Number"
